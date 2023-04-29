@@ -9,6 +9,8 @@
     <script src='main.js'></script>
 </head>
 <body>
-    
+    <p>
+        Hello My new CICD pipeline is on the way...
+    </p>
 </body>
 </html>>
