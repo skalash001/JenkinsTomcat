@@ -10,7 +10,7 @@
 </head>
 <body>
     <p>
-        Hello My new CICD pipeline is on the way...
+        <strong>1.</strong> My new CICD pipeline is on the way...
     </p>
 </body>
 </html>>
